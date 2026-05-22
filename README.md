@@ -15,7 +15,7 @@ Real-time RFID validation
 A compact foundation for access control or attendance systems
 
 ## Demonstration
-[![Watch the video](https://photos.fife.usercontent.google.com/pw/AP1GczMg3i3ZjWyrfUNGIpDAFUhDG3gPw6heJNXsDRXv6gLn9SNkFlMuPzSDuA=w1331-h998-s-no-gm?authuser=0)](https://www.youtube.com/watch?v=SHOfBI2xKSE)
+[![Watch the video](https://photos.app.goo.gl/TPzzfLshcFUwHnZX9)](https://www.youtube.com/watch?v=SHOfBI2xKSE)
 
 
 ## Main Hardware Used
