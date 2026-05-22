@@ -15,16 +15,16 @@ Real-time RFID validation
 A compact foundation for access control or attendance systems
 
 # Main Hardware Used
-Arduino Mega 2560
-RFID RC522 Module
-LCD1602 Module
+Arduino Mega 2560 <br />  
+RFID RC522 Module <br />
+LCD1602 Module <br />
 Passive Buzzer
 
 # Libraries Used
-SPI
-LiquidCrystal
-MCRC522
+SPI <br />
+LiquidCrystal <br />
+MCRC522 <br />
 
 # Author
-Developed by Mahdi Ahsan
-https://github.com/msdahsan
+Developed by Mahdi Ahsan <br />
+https://github.com/msdahsan <br />
