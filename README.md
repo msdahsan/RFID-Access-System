@@ -19,7 +19,7 @@ A compact foundation for access control or attendance systems
 
 
 ## Main Hardware Used
-Arduino Mega 2560 <br />  
+Arduino Mega 2560  
 RFID RC522 Module <br />
 LCD1602 Module <br />
 Passive Buzzer
